@@ -33,6 +33,6 @@ MySQL | SQL
 
 ## 📫 Connect with me
 
-LinkedIn
-Portfolio
-Email
+LinkedIn - www.linkedin.com/in/naveen2357
+Portfolio 
+Email - naveenerra70@gmail.com
