@@ -20,19 +20,27 @@ business experience with hands-on analytical skills.
 ## 📊 Featured Projects
 
 ### Bank Loan Analysis & Risk Dashboard
-SQL | Excel | Tableau | Power BI
+Power BI | Excel | Tableau | SQL
 
-### Manufacturing Production Analytics
-Excel | SQL | Tableau | Power BI
+[View Project](https://github.com/naveenerra/bank-loan-analysis)
 
-### Amazon Sales Analytics
-Excel | SQL | Tableau | Power BI | DAX | Power Query
+### Amazon Sales Analytics Dashboard
+Tableau | Data Visualization | Business Analysis
+
+[View Project](https://github.com/naveenerra/amazon-sales-analytics)
 
 ### MySQL Business Analysis
-MySQL | SQL
+MySQL | SQL | CTEs | Window Functions
+
+[View Project](https://github.com/naveenerra/mysql-business-analysis)
+
+### Manufacturing Production Analytics
+Excel | PivotTables | PivotCharts | Slicers
+
+[View Project](https://github.com/naveenerra/manufacturing-production-analytics)
 
 ## 📫 Connect with me
 
 LinkedIn - www.linkedin.com/in/naveen2357
-Portfolio 
+Portfolio - naveenerra.github.io
 Email - naveenerra70@gmail.com
