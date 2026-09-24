@@ -17,6 +17,16 @@ business experience with hands-on analytical skills.
 - Data Visualization
 - Business Analytics
 
+
+## 🎓 Certifications
+
+### Certificate Program in Data Analyst — Nasscom
+- **Level:** Gold
+- **Assessment Score:** 87%
+- **Issued:** September 2026
+- **Certification ID:** FSP/2026/9/10403104
+
+  
 ## 📊 Featured Projects
 
 ### Bank Loan Analysis & Risk Dashboard
